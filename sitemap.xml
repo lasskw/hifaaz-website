@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hifaaz.app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hifaaz.app/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hifaaz.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hifaaz.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hifaaz.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hifaaz.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ckb" href="https://hifaaz.app/ckb/"/>
+  </url>
+  <url>
+    <loc>https://hifaaz.app/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hifaaz.app/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hifaaz.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hifaaz.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hifaaz.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hifaaz.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ckb" href="https://hifaaz.app/ckb/"/>
+  </url>
+  <url>
+    <loc>https://hifaaz.app/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hifaaz.app/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hifaaz.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hifaaz.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hifaaz.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hifaaz.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ckb" href="https://hifaaz.app/ckb/"/>
+  </url>
+  <url>
+    <loc>https://hifaaz.app/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hifaaz.app/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hifaaz.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hifaaz.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hifaaz.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hifaaz.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ckb" href="https://hifaaz.app/ckb/"/>
+  </url>
+  <url>
+    <loc>https://hifaaz.app/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hifaaz.app/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hifaaz.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hifaaz.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hifaaz.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hifaaz.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ckb" href="https://hifaaz.app/ckb/"/>
+  </url>
+  <url>
+    <loc>https://hifaaz.app/ckb/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hifaaz.app/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hifaaz.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hifaaz.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://hifaaz.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hifaaz.app/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ckb" href="https://hifaaz.app/ckb/"/>
+  </url>
+  <url>
+    <loc>https://hifaaz.app/privacy/</loc>
+  </url>
+  <url>
+    <loc>https://hifaaz.app/datenschutz/</loc>
+  </url>
+  <url>
+    <loc>https://hifaaz.app/imprint/</loc>
+  </url>
+  <url>
+    <loc>https://hifaaz.app/impressum/</loc>
+  </url>
+</urlset>

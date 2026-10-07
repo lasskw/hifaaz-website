@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg378"
+    inkscape:version="0.46"
+    viewBox="0 0 1063 708.66"
+    sodipodi:version="0.32"
+    version="1"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    y="0"
+    x="0"
+    sodipodi:docname="france.svg"
+    sodipodi:docbase="/home/tobias/Desktop/Flags"
+  >
+  <rect
+      id="rect171"
+      style="fill-rule:evenodd;stroke-width:1pt;fill:#ffffff"
+      height="708.66"
+      width="1063"
+      y="0"
+      x="0"
+  />
+  <rect
+      id="rect403"
+      style="fill-rule:evenodd;stroke-width:1pt;fill:#00267f"
+      height="708.66"
+      width="354.33"
+      y="0"
+      x="0"
+  />
+  <rect
+      id="rect135"
+      style="fill-rule:evenodd;stroke-width:1pt;fill:#f31830"
+      width="354.33"
+      y="0"
+      x="708.66"
+      height="708.66"
+      sodipodi:fill-cmyk="(0 0.9 0.8 0.05)"
+  />
+</svg
+>
